@@ -15,21 +15,21 @@ Built a full-stack E-commerce buy-sell store (see the finished product repo [her
 - Next.js for server-side rendering, routing and tooling.
 - Styled Components.
 - React's Context API for managing local state.
-- Apollo 3's React Hooks for interacing with the Apollo Client.
+- Apollo 3's React Hooks for interfacing with the Apollo Client.
 
 #### Apollo Client
 
 - GraphQL mutations (create, update, delete).
 - Fetching data with GraphQL queries.
 - Caching GraphQL data and managing the cache.
-- Error and Loading UI states
+- Error and Loading UI states.
 
 ### Back-end
 
 #### Keystone.js
 
 - Admin interface to manage data.
-- CRUD APIs for a Prisma database.
+- CRUD API for Prisma database.
 - Schema definitions.
 - Data relationships.
 - Implementing query and mutation resolvers.
@@ -52,12 +52,12 @@ A comprehensive career track course with easily over 300 hours worth of course w
 - HTML and CSS basics.
 - UI Design Fundamentals.
 - Responsive Design.
-- E6+ JavaScript Features and hundred of coding challenges.
+- E6+ JavaScript features and hundreds of coding challenges.
 - Working with APIs - Fetch, promises, .then chaining, async await syntax.
-- Error handling.
+- Error-handling.
 - Flexbox and Grid.
 - Git.
-- Writing Reuseable React.
+- Writing Reusable React.
 - Building a Netflix clone with compound components, styled-components and Firebase.
 
 [Visit Course Page](https://scrimba.com/learn/frontend "Scrimba: The Frontend Developer Career Path")
@@ -68,12 +68,12 @@ A comprehensive career track course with easily over 300 hours worth of course w
 
 A deep dive into React with roughly 40 hours of course work.
 
-- PropTypes and defaultProps
-- Higher Order Components, Render Props, Reusability
+- PropTypes and defaultProps.
+- Higher Order Components, Render Props, Reusability.
 - Performance: Lifecycle methods, React.PureComponent, memoization.
-- The Context API
-- Hooks: useState, useEffect, useRef, useContext, the Rules of Hooks, custom hooks.
-- React Router
-- Redux
+- The Context API.
+- Hooks: useState, useEffect, useRef, useContext, the Rules of Hooks, Custom Hooks.
+- React Router.
+- Redux.
 
 [Visit Course Page](https://scrimba.com/learn/react "Scrimba: The React Bootcamp")
