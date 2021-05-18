@@ -39,7 +39,7 @@ Built a full-stack E-commerce buy-sell store (see the finished product repo [her
 - Performing authentication.
 - Managing and checking roles and permissions.
 
-_Note: Fully deployed by myself and heavily extended with features, optimised for performance and debugged for usability and deployment. All commits after April 9 are mine_.
+_Note: Fully deployed by myself and heavily extended with features, optimised for performance and debugged for usability and deployment. All commits after April 9 were not part of the course_.
 
 [Visit Course Page](https://advancedreact.com/ "Advanced React and GraphQL (Wes Bos)")
 
