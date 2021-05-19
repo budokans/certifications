@@ -1,6 +1,6 @@
 # Certifications
 
-Selected software engineering and web development certifications
+Selected software engineering and web development certifications.
 
 ## Advanced React and GraphQL (Wes Bos)
 
@@ -12,32 +12,32 @@ Built a full-stack E-commerce buy-sell store (see the finished product repo [her
 
 #### React
 
-- Next.js for server-side rendering, routing and tooling.
-- Styled Components.
-- React's Context API for managing local state.
-- Apollo 3's React Hooks for interfacing with the Apollo Client.
+- Next.js for server-side rendering, routing and tooling
+- Styled Components
+- React's Context API for managing local state
+- Apollo 3's React Hooks for interfacing with the Apollo Client
 
 #### Apollo Client
 
-- GraphQL mutations (create, update, delete).
-- Fetching data with GraphQL queries.
-- Caching GraphQL data and managing the cache.
-- Error and Loading UI states.
+- GraphQL mutations (create, update, delete)
+- Fetching data with GraphQL queries
+- Caching GraphQL data and managing the cache
+- Error and Loading UI states
 
 ### Back-end
 
 #### Keystone.js
 
-- Admin interface to manage data.
-- CRUD API for Prisma database.
-- Schema definitions.
-- Data relationships.
-- Implementing query and mutation resolvers.
-- Custom server-side logic.
-- Charging credit cards with Stripe.
-- Sending email with nodemailer.
-- Performing authentication.
-- Managing and checking roles and permissions.
+- Admin interface to manage data
+- CRUD API for Prisma database
+- Schema definitions
+- Data relationships
+- Implementing query and mutation resolvers
+- Custom server-side logic
+- Charging credit cards with Stripe
+- Sending email with nodemailer
+- Performing authentication
+- Managing and checking roles and permissions
 
 _Note: Fully deployed by myself and heavily extended with features, optimised for performance and debugged for usability and deployment. All commits after April 9 were not part of the course_.
 
@@ -49,16 +49,16 @@ _Note: Fully deployed by myself and heavily extended with features, optimised fo
 
 A comprehensive career track course with easily over 300 hours worth of course work aimed at building strong Frontend Web Development fundamentals, as well as delving into some more advanced topics.
 
-- HTML and CSS basics.
-- UI Design Fundamentals.
-- Responsive Design.
-- E6+ JavaScript features and hundreds of coding challenges.
-- Working with APIs - Fetch, promises, .then chaining, async await syntax.
-- Error-handling.
-- Flexbox and Grid.
-- Git.
-- Writing Reusable React.
-- Building a Netflix clone with compound components, styled-components and Firebase.
+- HTML and CSS basics
+- UI Design Fundamentals
+- Responsive Design
+- E6+ JavaScript features and hundreds of coding challenges
+- Working with APIs - Fetch, promises, .then chaining, async await syntax
+- Error-handling
+- Flexbox and Grid
+- Git
+- Writing Reusable React
+- Building a Netflix clone with compound components, styled-components and Firebase
 
 [Visit Course Page](https://scrimba.com/learn/frontend "Scrimba: The Frontend Developer Career Path")
 
@@ -68,12 +68,12 @@ A comprehensive career track course with easily over 300 hours worth of course w
 
 A deep dive into React with roughly 40 hours of course work.
 
-- PropTypes and defaultProps.
-- Higher Order Components, Render Props, Reusability.
-- Performance: Lifecycle methods, React.PureComponent, memoization.
-- The Context API.
-- Hooks: useState, useEffect, useRef, useContext, the Rules of Hooks, Custom Hooks.
-- React Router.
-- Redux.
+- PropTypes and defaultProps
+- Higher Order Components, Render Props, Reusability
+- Performance: Lifecycle methods, React.PureComponent, memoization
+- The Context API
+- Hooks: useState, useEffect, useRef, useContext, the Rules of Hooks, Custom Hooks
+- React Router
+- Redux
 
 [Visit Course Page](https://scrimba.com/learn/react "Scrimba: The React Bootcamp")
