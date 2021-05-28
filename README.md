@@ -47,7 +47,7 @@ _Note: Fully deployed by myself and heavily extended with features, optimised fo
 
 ![Scrimba: The Frontend Developer Career Path](https://github.com/budokans/certifications/blob/main/scrimba-frontend-developer-career-path.png "Scrimba: The Frontend Developer Career Path")
 
-A comprehensive career track course with easily over 300 hours worth of course work aimed at building strong Frontend Web Development fundamentals, as well as delving into some more advanced topics.
+A comprehensive career track course with approximately 300 hours' worth of course work aimed at building strong Frontend Web Development fundamentals, as well as delving into some more advanced topics.
 
 - Advanced HTML5 and CSS3
 - UI Design Fundamentals
