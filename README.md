@@ -49,7 +49,7 @@ _Note: Fully deployed by myself and heavily extended with features, optimised fo
 
 A comprehensive career track course with easily over 300 hours worth of course work aimed at building strong Frontend Web Development fundamentals, as well as delving into some more advanced topics.
 
-- HTML and CSS basics
+- Advanced HTML5 and CSS3
 - UI Design Fundamentals
 - Responsive Design
 - E6+ JavaScript features and hundreds of coding challenges
