@@ -6,7 +6,9 @@ Selected software engineering and web development certifications.
 
 ![Advanced React and GraphQL (Wes Bos)](https://github.com/budokans/certifications/blob/main/wes-bos-advanced-react-graphql.png "Advanced React and GraphQL (Wes Bos)")
 
-Built a full-stack E-commerce buy-sell store (see the finished product repo [here](https://github.com/budokans/gretsch-geeks "Gretsch Geeks") and the deployed website [here](https://gretsch.stevenwebster.co "Gretsch Geeks")).
+Built a full-stack E-commerce buy-sell store (see the finished product repo [here](https://github.com/budokans/gretsch-geeks "Gretsch Geeks") and ~~the deployed website here~~*.
+
+*Unfortunately this is no longer live. Heroku did away with the Hobby-Basic plan when I wasn't looking. I dragged my feet too long about upgrading and my account got deleted.
 
 ### Front-end
 
